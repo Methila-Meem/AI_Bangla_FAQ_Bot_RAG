@@ -76,7 +76,6 @@ Design Goal: Ensure the LLM never answers beyond retrieved Bangla knowledge.
 
 ## 🛠️ Tech Stack
 
-```
 | Component     | Technology                                 |
 | ------------- | ------------------------------------------ |
 | Language      | Python                                     |
@@ -85,7 +84,6 @@ Design Goal: Ensure the LLM never answers beyond retrieved Bangla knowledge.
 | Vector Store  | FAISS                                      |
 | RAG Framework | LangChain                                  |
 | LLM           | OpenAI GPT-4.1-Nano (GitHub Inference API) |
-```
 
 ---
 
